@@ -1,4 +1,4 @@
-# PF-Label-iiko-razor
+# PF-Label-iiko-razor 1
 # Шаблон этикетки для печати ПФ (полуфабрикатов) в iiko Razor
 ![image](https://github.com/user-attachments/assets/ead8e340-2045-4e14-9351-b3517d02edc7)
 
